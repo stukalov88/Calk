@@ -3,6 +3,8 @@ double b;
 double total;
 char oper;
 
+/* простой калькулятор (+ - * \) */
+
 Console.WriteLine("Введите первое число:");
 a = Convert.ToDouble(Console.ReadLine());
 
